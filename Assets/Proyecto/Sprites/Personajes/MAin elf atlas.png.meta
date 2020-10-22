@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 26b26db322fab9a42bd184c042dd9bf2
+timeCreated: 1478969494
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gorro
+    21300002: cabeza
+    21300004: mano
+    21300006: MAin elf atlas_3
+    21300008: MAin elf atlas_4
+    21300010: MAin elf atlas_5
+    21300012: cuerpo
+    21300014: MAin elf atlas_7
+    21300016: MAin elf atlas_8
+    21300018: MAin elf atlas_9
+    21300020: MAin elf atlas_10
+    21300022: pie_i
+    21300024: pie_d
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gorro
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1511
+        width: 808
+        height: 616
+      alignment: 9
+      pivot: {x: 0.7244806, y: 0.41486865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1416
+        width: 648
+        height: 687
+      alignment: 9
+      pivot: {x: 0.54539055, y: 0.09683694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mano
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 653
+        width: 189
+        height: 503
+      alignment: 9
+      pivot: {x: 0.7023959, y: 0.896257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 643
+        width: 199
+        height: 503
+      alignment: 9
+      pivot: {x: 0.32800907, y: 0.8922544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1054
+        width: 206
+        height: 314
+      alignment: 9
+      pivot: {x: 0.71358216, y: 0.7995683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1000
+        width: 150
+        height: 328
+      alignment: 9
+      pivot: {x: 0.4291988, y: 0.80065846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cuerpo
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 653
+        width: 451
+        height: 729
+      alignment: 9
+      pivot: {x: 0.56020397, y: 0.5691705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 282
+        width: 151
+        height: 294
+      alignment: 9
+      pivot: {x: 0.63903594, y: 0.8495313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 246
+        width: 168
+        height: 318
+      alignment: 9
+      pivot: {x: 0.6381211, y: 0.8440001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_9
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 215
+        width: 186
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5118812, y: 0.7912815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MAin elf atlas_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 190
+        width: 191
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5462813, y: 0.8201028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pie_i
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 225
+        height: 158
+      alignment: 9
+      pivot: {x: 0.259362, y: 0.80071956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pie_d
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 222
+        height: 155
+      alignment: 9
+      pivot: {x: 0.24117808, y: 0.8065404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

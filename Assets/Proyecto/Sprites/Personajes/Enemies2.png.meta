@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 03cf5fab7217cd04db731c3a64e8bfe6
+timeCreated: 1480372423
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemies2_0
+    21300002: Enemies2_1
+    21300004: Enemies2_2
+    21300006: Enemies2_3
+    21300008: Enemies2_4
+    21300010: Enemies2_5
+    21300012: Enemies2_6
+    21300014: Enemies2_7
+    21300016: Enemies2_8
+    21300018: Enemies2_9
+    21300020: Enemies2_10
+    21300022: Enemies2_11
+    21300024: Enemies2_12
+    21300026: Enemies2_13
+    21300028: Enemies2_14
+    21300030: Enemies2_15
+    21300032: Enemies2_16
+    21300034: Enemies2_17
+    21300036: Enemies2_18
+    21300038: Enemies2_19
+    21300040: Enemies2_20
+    21300042: Enemies2_21
+    21300044: Enemies2_22
+    21300046: Enemies2_23
+    21300048: Enemies2_24
+    21300050: Enemies2_25
+    21300052: Enemies2_26
+    21300054: Enemies2_27
+    21300056: Enemies2_28
+    21300058: Enemies2_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemies2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.12784912, y: 0.06695218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 885
+        width: 57
+        height: 103
+      alignment: 9
+      pivot: {x: 0.8988615, y: 0.09007604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 885
+        width: 57
+        height: 103
+      alignment: 9
+      pivot: {x: 0.12962984, y: 0.1216087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 865
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.09401703, y: 0.13912693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 877
+        width: 57
+        height: 102
+      alignment: 9
+      pivot: {x: 0.81338984, y: 0.08605718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 877
+        width: 56
+        height: 102
+      alignment: 9
+      pivot: {x: 0.1520146, y: 0.054215375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 766
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.88906693, y: 0.08499552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 682
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 758
+        width: 95
+        height: 90
+      alignment: 9
+      pivot: {x: 0.92735016, y: 0.10303887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 674
+        width: 193
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 534
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.09401703, y: 0.08499552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 546
+        width: 57
+        height: 102
+      alignment: 9
+      pivot: {x: 0.81339115, y: 0.07013597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 546
+        width: 57
+        height: 102
+      alignment: 9
+      pivot: {x: 0.12962957, y: 0.038294174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 528
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.043269794, y: 0.08499552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 540
+        width: 57
+        height: 102
+      alignment: 9
+      pivot: {x: 0.870371, y: 0.006452373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 540
+        width: 57
+        height: 102
+      alignment: 9
+      pivot: {x: 0.27207974, y: 0.07013597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 427
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.9398156, y: 0.0669515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 343
+        width: 192
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 420
+        width: 96
+        height: 91
+      alignment: 9
+      pivot: {x: 0.9736468, y: 0.07171061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_19
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 336
+        width: 193
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 191
+        width: 96
+        height: 91
+      alignment: 9
+      pivot: {x: 0.14476506, y: 0.036019966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 56
+        height: 103
+      alignment: 9
+      pivot: {x: 0.905983, y: 0.058542937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 203
+        width: 57
+        height: 103
+      alignment: 9
+      pivot: {x: 0.2435897, y: 0.058542937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 199
+        width: 96
+        height: 91
+      alignment: 9
+      pivot: {x: 0.0263532, y: 0.089555845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_24
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 211
+        width: 57
+        height: 103
+      alignment: 9
+      pivot: {x: 0.8418804, y: 0.027010575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_25
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 211
+        width: 57
+        height: 103
+      alignment: 9
+      pivot: {x: 0.15812068, y: 0.09007589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 84
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.9736466, y: 0.030864207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 193
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 92
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.88906735, y: 0.048908148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemies2_29
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 8
+        width: 193
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
